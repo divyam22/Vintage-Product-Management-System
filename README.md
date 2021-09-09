@@ -1,1 +1,0 @@
-# Vintage-Product-Management-System
